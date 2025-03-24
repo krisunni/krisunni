@@ -31,10 +31,6 @@ Senior Engineer and Solution Architect with over 13 years of experience in consu
 
 ### Beyond Aerospace | Senior Solution Architect
 **Sept 2023 – Present**
-- Implemented patches to Hyperledger Fabric for distributed networks over high-latency Iridium.
-- Migrated chaincode from Node.js to Go; developed a Rust-based Vault-backed Indy Wallet.
-- Designed secure, scalable mission-critical systems using Golang for C6 ISR data management.
-- Built cross-domain solutions for live mission data using blockchain, machine learning, and networking.
 
 ### Avenue One | AWS Solution Architect
 **Oct 2022 – Aug 2023**
