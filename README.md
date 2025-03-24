@@ -1,6 +1,5 @@
 # Kris Unnikannan
 
-**Email:** krish.unnikannan@gmail.com  
 **GitHub:** [github.com/krisunni](https://github.com/krisunni)  
 **LinkedIn:** [linkedin.com/in/kunnikannan](https://www.linkedin.com/in/kunnikannan)  
 
